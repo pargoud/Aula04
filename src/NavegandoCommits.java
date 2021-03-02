@@ -2,9 +2,12 @@
 public class NavegandoCommits {
 
 	public static void main(String[] args) {
-		/*Navegar entre commits é importantíssimo!
-		 * Não vamos escrever código nesse arquivo... 
-		 * Ele é apenas para te mostrar a importância de poder navegar.*/
+		/*Navegar entre commits ï¿½ importantï¿½ssimo!
+		 * Nï¿½o vamos escrever cï¿½digo nesse arquivo... 
+		 * Ele ï¿½ apenas para te mostrar a importï¿½ncia de poder navegar.*/
+		System.out.println("teste");
+	
+		
 
 	}
 
